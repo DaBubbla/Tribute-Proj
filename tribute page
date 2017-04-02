@@ -1,0 +1,84 @@
+
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
+  <style>
+    .gray-background {
+      background-color: #d3d3d3;
+    
+      }
+    }
+    h1 {
+      font-size: 60px;
+      font-family: Oswald;
+    }
+    h2 {
+      font-size: 25px;
+      font-family: Roboto;
+      
+      h4 { 
+        font-size: 25px;
+        font-family: Roboto;
+      }
+   
+    }
+    .larger-image {
+      width: responsive;}
+      
+    h5 {font-size: 25px;}
+    
+    p1 {font-family: Oswald;}
+    p2 {font-size: 20px;}
+    ul {font-family: Roboto;}
+    p4 {font-family: Roboto;
+        font-size: 25px;
+        background-color: #add8e3;}
+      p7 {font-family: Roboto;
+    font-size: 20px;}
+    p5 {font-size: 20px;}
+  </style>
+  <div class="container-fluid">
+  <h1 class="text-center">Sir Patrick Stewart</h>
+    
+ <h2 class="text-center">A Captain's Log</h> 
+    
+    
+  <div class="gray-background text-center">
+    
+  <h3> <img src="https://s-media-cache-ak0.pinimg.com/564x/71/a8/bc/71a8bc26295994d8372155f1b687f0ac.jpg"
+            img class="larger-image"
+            alt="P.stew with hair">
+    <div>
+    </h>  
+    <h4 class="text-center">A Young Patrick Stewart...with hair</h></div>
+    
+    
+    <p1><b>Sir</b> Patrick Stewart came into the picture (puns) back in the mid-to-late 1970's with the The Royal Shakespeare Company, but became a hollywood hit when he surfaced in the US as Captain Jean-Luc Picard of Star Trek: The Next Generation.</p> 
+    
+    <div class="text-left">
+    <p2>He didn't stop there, here's a look at his more familiar roles:</p>
+      <div>
+    <ul>
+    <li><b>1987-94</b> Stars in the cult series Star Trek: The Next Generation</li>
+  <li><b>Early 2000's</b> Enters the X-men Franchise as Charles Xavier</li>
+  <li><b>2005</b> Voices for Avery Bullock in the animated series American Dad</li>
+    </ul>
+        </div>
+    </div>
+    <div>
+    <h5>From Humble Origins</h>
+    </div>
+    <p7>Stewart grew up in a poor household with domestic violence DV from his father, an experience which later influenced his political and ideological beliefs. Stewart identifies as a feminist and has been part of multiple campaigns against DV due to <i>his</i> personal trauma. At the age of 15, Stewart left school and increased his participation in local theatre. He gained a job as a newspaper reporter and obituary writer at the Mirfield & District Reporter, but after a year his employer gave him an ultimatum to choose acting or journalism, and he left the job. His brother tells the story that Stewart had been attending rehearsals during work time and then inventing the stories he reported. Stewart also trained as a boxer. At the age of eighteen he lost his hair due to suffering from Alopecia areata, an experience he found traumatic, and became more timid. For him, acting served as a means of self-expression.</p>
+    
+    
+    
+    <p3>Sir Stewart has a long and distiguished career spanning over 60 years with including being knighted by Her Royal Majesty Queen Elizabeth II for services to drama in 2010, as well as numerous other acheivements and awards. From TV, to the big screen, documentaries, activism and more, even if you aren't a Star Trek fan, you should be able to appreciate his impact on the world.</p>
+    </div>
+  <div> <p4 class="Roboto blue-baground">"It is what you do from now on that will either move our civilization forward a few tiny steps, or else... begin to march us steadily backward." Patrick Stewart</p>
+      </div>
+      
+  <p5>Find more here on his<a href="https://en.wikipedia.org/wiki/Patrick_Stewart" target="_blank"> wiki page</a></p4>
+      
+</div>
+<footer class="text-center">
+    <p6>Written and coded by <a href="https://www.freecodecamp.com/dabubbla" target="_blank">Ed Johnston</a>.</p>
+  </footer>
